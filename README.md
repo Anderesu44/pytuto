@@ -47,4 +47,4 @@ code .
 
 (Recuerda visualizar el archivo Markdown con el botón "Visualizar" o abrirlo como vista previa.)
 
-<b>¡Y buena, BUENA SUERTE!</b>
+<b>¡Y buena BUENA SUERTE!</b>
