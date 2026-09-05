@@ -45,4 +45,6 @@ code .
 
 ### abrir arhivo ruta.md en VSCode
 
+(Recuerda visualizar el MD con el boton visualizar o abrir como preview)
+
 <b>Y buena BUENA SUERTE<b>
