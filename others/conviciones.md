@@ -1,4 +1,4 @@
-# Convictions Case
+# Convenciones de nombres
 
 ## camelCase
 

@@ -1,10 +1,11 @@
 __author__ = "Andev"
 
-#*Funciones del sistema
-print
+#*Funciones del sistema*
+#*print()
+print #type: ignore
 
-#la funcion print imprime en pantalla los datos q se le envie y no devuelve nigun valor
-#(siempre busca convertirlo en str si este no tiene el atributo __str__ imprime su nombre de clase o tipo y su identificadpr)
+#La función print imprime en pantalla los datos que se le envíen y no devuelve ningún valor.
+#(Siempre busca convertirlos en str; si no tienen el atributo __str__, imprime su nombre de clase o tipo y su identificador.)
 
 #|print(
 #|    *values: any,
@@ -14,23 +15,23 @@ print
 #|    flush: Literal[False] = False
 #) -> None:
 
-type
+type #type: ignore
 
-#la funcion resive un dato de cualquier tipo y devuelve su typo
+#La función recibe un dato de cualquier tipo y devuelve su tipo.
 #|type(object: any) -> the object's type:
 
 print(type(print))
 
-input 
+input #type: ignore
 
-#la funcion input permite que el usuario ingrese datos en la consola
+#La función input permite que el usuario ingrese datos en la consola.
 #|input(prompt: str = "") -> str:
 
 print(input("Ingrese algo"))
 
-int()
+int #type: ignore
 
-#la funcion int convierte un dato a entero
+#La función int convierte un dato a entero.
 #|int(value: Any, /) -> int:
 
 print(int(10.5))

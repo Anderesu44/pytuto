@@ -1,29 +1,29 @@
 # PyTuto
 
-## Tutorial Basico de Python
+## Tutorial Básico de Python
 
 ###### [_by Anderesu44_](https://github.com/Anderesu44)
 
-### requisitos
+### Requisitos
 
 - Python >= 3.14.0
 - Git >= 2.0.0
 - VSCode >= 1.59.1
 
-### instalar python
+### Instalar Python
 
 - Descargar el instalador desde [python.org](https://www.python.org/downloads/)
 - Ejecutar el instalador y seguir las instrucciones.
 
-### instalar git
+### Instalar Git
 
 - Descargar el instalador desde [git-scm.com](https://git-scm.com/download/win)
 
-### instalar vscode
+### Instalar VSCode
 
 - Descargar el instalador desde [vscode.io](https://code.visualstudio.com/Download)
 
-### clonar repositorio
+### Clonar el repositorio
 
 #### Abrir Git Bash y ejecutar la siguiente línea de comando en la terminal:
 
@@ -31,20 +31,20 @@
 git clone https://github.com/anderesu44/pytuto.git
 ```
 
-### entrar al directorio del proyecto
+### Entrar al directorio del proyecto
 
 ```bash
 cd pytuto
 ```
 
-### abrir directorio del proyecten VSCode
+### Abrir el directorio del proyecto en VSCode
 
 ```
 code .
 ```
 
-### abrir arhivo ruta.md en VSCode
+### Abrir el archivo ruta.md en VSCode
 
-(Recuerda visualizar el MD con el boton visualizar o abrir como preview)
+(Recuerda visualizar el archivo Markdown con el botón "Visualizar" o abrirlo como vista previa.)
 
-<b>Y buena BUENA SUERTE<b>
+<b>¡Y buena, BUENA SUERTE!</b>

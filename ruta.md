@@ -1,4 +1,4 @@
-# Rua de estudio de python (En desarrollo)
+# Ruta de estudio de Python (en desarrollo)
 
 Creada por Anderesu44
 
