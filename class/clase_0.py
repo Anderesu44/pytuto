@@ -1,7 +1,7 @@
 __author__ = "Andev"
 
-#* ¡Hola, Mundo!
-print("Hello World!") #? print es una funcion del sistema la usamos para imprimir text en consola
+#* ¡Hola, mundo!
+print("Hello World!") #? print es una función del sistema; la usamos para imprimir texto en consola.
 
-#* Espero resivas con mucha motivacion el curso
-#* Gambate!!
+#* Espero recibas con mucha motivación el curso.
+#* ¡Gambare!

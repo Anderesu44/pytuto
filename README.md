@@ -1,6 +1,6 @@
 # PyTuto
 
-## Tutorial Básico de Python
+## Tutorial básico de Python
 
 ###### [_by Anderesu44_](https://github.com/Anderesu44)
 
@@ -12,20 +12,20 @@
 
 ### Instalar Python
 
-- Descargar el instalador desde [python.org](https://www.python.org/downloads/)
-- Ejecutar el instalador y seguir las instrucciones.
+- Descarga el instalador desde [python.org](https://www.python.org/downloads/)
+- Ejecuta el instalador y sigue las instrucciones.
 
 ### Instalar Git
 
-- Descargar el instalador desde [git-scm.com](https://git-scm.com/download/win)
+- Descarga el instalador desde [git-scm.com](https://git-scm.com/download/win)
 
 ### Instalar VSCode
 
-- Descargar el instalador desde [vscode.io](https://code.visualstudio.com/Download)
+- Descarga el instalador desde [vscode.io](https://code.visualstudio.com/Download)
 
 ### Clonar el repositorio
 
-#### Abrir Git Bash y ejecutar la siguiente línea de comando en la terminal:
+#### Abre Git Bash y ejecuta la siguiente línea de comando en la terminal:
 
 ```bash
 git clone https://github.com/anderesu44/pytuto.git
@@ -39,7 +39,7 @@ cd pytuto
 
 ### Abrir el directorio del proyecto en VSCode
 
-```
+```bash
 code .
 ```
 
@@ -47,4 +47,4 @@ code .
 
 (Recuerda visualizar el archivo Markdown con el botón "Visualizar" o abrirlo como vista previa.)
 
-<b>¡Y buena BUENA SUERTE!</b>
+<b>¡Y mucha suerte!</b>

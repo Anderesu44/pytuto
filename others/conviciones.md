@@ -6,11 +6,11 @@ Este estilo comienza con minúscula y cada palabra siguiente inicia con mayúscu
 
 ## PascalCase (o UpperCamelCase)
 
-En este caso todas las palabras empiezan con mayúscula, lo que da una apariencia más formal y estructurada. Es común en clases, componentes y tipos.
+En este caso, todas las palabras empiezan con mayúscula, lo que da una apariencia más formal y estructurada. Es común en clases, componentes y tipos.
 
 ## snake_case
 
-Este estilo separa cada palabra con guiones bajos, lo que facilita la lectura en contextos donde se prefieren nombres claros y planos. Python, SQL y Ruby lo usan para funciones y variables.
+Este estilo separa cada palabra con guiones bajos, lo que facilita la lectura en contextos donde se prefieren nombres claros y sencillos. Python, SQL y Ruby lo usan para funciones y variables.
 
 ## SCREAMING_SNAKE_CASE (o UPPER_CASE)
 
